@@ -1,7 +1,5 @@
 using AuthorAPI.Models;
 using Microsoft.EntityFrameworkCore;
-using System.Collections.ObjectModel;
-using Microsoft.EntityFrameworkCore;
 
 
 namespace AuthorAPI.Persistence
